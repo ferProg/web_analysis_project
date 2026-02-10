@@ -53,6 +53,11 @@
 - **Social** brings lower volume but tends to show **slightly longer sessions**, with conversion rates broadly similar.
 - **Referral** is lower volume and not outstanding for duration, but shows a **slight conversion advantage** (interpret cautiously due to smaller sample size).
 
+## Impact of previous visits on user behavior
+
+Overall, there is no drastic jump between new and returning users. New users tend to spend slightly more time on the site, possibly because they are still exploring and are less familiar with the interface. Both new and returning users typically view a similar number of pages per session. In terms of conversion, the most loyal users (4–9 previous visits) show a slightly higher likelihood of converting, although the difference compared to the rest of the users is small.
+
+
 ---
 
 ## How to run
