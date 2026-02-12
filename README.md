@@ -57,6 +57,10 @@
 
 Overall, there is no drastic jump between new and returning users. New users tend to spend slightly more time on the site, possibly because they are still exploring and are less familiar with the interface. Both new and returning users typically view a similar number of pages per session. In terms of conversion, the most loyal users (4–9 previous visits) show a slightly higher likelihood of converting, although the difference compared to the rest of the users is small.
 
+## Do longer sessions convert better?
+
+Longer sessions do show a slightly higher average conversion rate, but the difference between duration groups is small. Based on this dataset, it would not be reasonable to rely solely on increasing session duration as the main lever for improving conversions.
+
 
 ---
 
