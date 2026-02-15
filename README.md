@@ -1,4 +1,4 @@
-# Web Analytics Mini-Project — Website Traffic, Sessions & Conversion (WIP)
+# Web Analytics Mini-Project — Website Traffic, Sessions & Conversion 
 
 This mini-project uses a simulated web analytics dataset to explore how **traffic source** and **user behavior** relate to **session quality** and **conversion probability**.  
 
@@ -274,20 +274,25 @@ Even though the dataset is simulated and the conversion signal is weak, working 
    ```bash
    pip install -r requirements.txt
 
----
-
-## Next steps
-- Add a compact **KPI table** by Traffic Source (engagement + conversion metrics).
-- Add a small set of visuals (distributions + channel comparison).
-- Export final aggregated tables to `/outputs/` for a reporting-style deliverable.
 
 ---
 
 ## Notes
-This project is a work in progress. The emphasis is on:
+This project is complete for its current scope, but can be extended with more realistic datasets and additional features. The emphasis is on:
 
 * clarity of analysis,
 
 * reproducibility (clean, documented notebook),
 
-*and honest, business-oriented communication of what the data does — and does not — support.
+* sand honest, business-oriented communication of what the data does — and does not — support.
+
+---
+### Example visuals
+
+Session duration distribution:
+
+![Session Duration Histogram](outputs/session_duration_hist.png)
+
+Page views per session:
+
+![Page Views Histogram](outputs/page_views_hist.png)
